@@ -1,5 +1,3 @@
-<img src="../assets/logo-inteli.png" alt="Logo do Inteli"/>
-
 # Atividade 1: Turtlesim: simulando um ambiente robótico integrado no ROS
 
 ## Enunciado
