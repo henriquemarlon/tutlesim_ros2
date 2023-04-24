@@ -6,7 +6,7 @@ class TurtleController(Node):
     def __init__(self):
         super().__init__('turtle_controller')
         self.publisher_ = self.create_publisher(Twist, 'turtle1/cmd_vel', 1)
-        self.timer_ = self.create_timer(0.1, self.move_turtle)
+        self.timer_ = self.create_timer(0.1, self.diamond)
         self.twist_msg_ = Twist()
         self.timer = 0
         
