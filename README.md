@@ -14,3 +14,12 @@ Ao terminar esta atividade, espera-se que os estudantes consigam validar suas in
 - Funcionamento correto do script de interação com o turtlesim;
 - Explicação coerente e concisa da implementação;
 - Congruência entre o que foi escrito e o código disposto no repositório do github;
+
+```
+.
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── turtlesim_ros2.py
+
+```
