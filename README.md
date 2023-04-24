@@ -1,4 +1,4 @@
-# Atividade 1: Turtlesim: simulando um ambiente robótico integrado no ROS
+Turtlesim: simulando um ambiente robótico integrado no ROS
 
 ## Link de demo:
 https://www.youtube.com/watch?v=kLFpDWysuiQ
