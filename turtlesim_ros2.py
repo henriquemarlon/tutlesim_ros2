@@ -49,7 +49,7 @@ class TurtleController(Node):
             self.fourth_movement()
 
 
-def main():
+def draw():
     rclpy.init()
     turtle_controller = TurtleController()
     rclpy.spin(turtle_controller)
@@ -60,7 +60,7 @@ def main():
 
 if __name__ == '__main__':
     try:
-        main()
+        draw()
     except Exception as e:
         print("The turtle stopped")
         print(e)
